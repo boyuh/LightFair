@@ -9,6 +9,8 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=boyuh.LightFair" />
 </a>
 </p>
+
+
 **Author:** [Boyu Han](https://boyuh.github.io/), [Qianqian Xu*](https://qianqianxu010.github.io/), [Shilong Bao](https://statusrank.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Kangli Zi](https://scholar.google.com/citations?user=JlmFymcAAAAJ&hl=zh-CN&oi=ao), [Qingming Huang*](https://qmhuang-ucas.github.io/)
 
 ![](resources/LightFair.png)

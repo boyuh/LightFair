@@ -29,7 +29,7 @@
 If you find our work inspiring or use our codebase in your research, please cite our work.
 
 ```
-@inproceedings{han2024aucseg,
+@inproceedings{han2025lightfair,
     title={LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders}, 
     author={Boyu Han and Qianqian Xu and Shilong Bao and Zhiyong Yang and Kangli Zi and Qingming Huang},
     booktitle={Advances in Neural Information Processing Systems},

@@ -5,10 +5,12 @@
 # LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders (NeurIPS 2025)
 
 <p align="center">
+<a href="https://arxiv.org/pdf/2509.23639"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 <a href="" target='_blank'>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=boyuh.LightFair" />
 </a>
 </p>
+
 
 
 **Author:** [Boyu Han](https://boyuh.github.io/), [Qianqian Xu*](https://qianqianxu010.github.io/), [Shilong Bao](https://statusrank.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Kangli Zi](https://scholar.google.com/citations?user=JlmFymcAAAAJ&hl=zh-CN&oi=ao), [Qingming Huang*](https://qmhuang-ucas.github.io/)
